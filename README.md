@@ -28,7 +28,7 @@
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
 <br>
 
-<strong><a href="https://github.com/">2. Health Insurance Cross Sell</a></strong>
+<strong><a href="https://github.com/charlleskleber/Insurance-Cross-Sell">2. Health Insurance Cross Sell</a></strong>
 <br>
 <a href="https://github.com/">
 	<img src="https://github.com/" alt="drawing" align="right" width="25%"/>
