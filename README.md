@@ -19,7 +19,7 @@
 
 <h1>Projects</h1>
 
-<strong><a href="https://github.com/FabioCaffarello/Rossmann-Store-Sales">1. Store Sales Prediction </a></strong>
+<strong><a href="https://github.com/charlleskleber/RossmannnSalesPred">1. Store Sales Prediction </a></strong>
 <br>
 <a href="https://github.com/charlleskleber/RossmannnSalesPred">
 	<img src="https://github.com/FabioCaffarello/Rossmann-Store-Sales/blob/master/img/rossmann.jpg" alt="drawing" align="right" width="25%"/>
@@ -36,10 +36,6 @@
 > <p>Forecast of clients with greater chances of contracting the new product in which the insurance company offers during the product launch campaign</p>
 > <p>skills: Unbalanced Data, Machine Learning, Heroku, API</p>
 
-<strong><a href="https://github.com/">3. Churn Prediction </a></strong>
-<br>
-<p>in development</p>
-<p>skills: Unbalanced Data, Machine Learning, Heroku, API</p>
 
 <br></br>
 
