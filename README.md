@@ -22,7 +22,7 @@
 <strong><a href="https://github.com/charlleskleber/RossmannnSalesPred">1. Store Sales Prediction </a></strong>
 <br>
 <a href="https://github.com/charlleskleber/RossmannnSalesPred">
-	<img src="https://github.com/FabioCaffarello/Rossmann-Store-Sales/blob/master/img/rossmann.jpg" alt="drawing" align="right" width="25%"/>
+	<img src="https://github.com/charlleskleber/RossmannnSalesPred/blob/main/img/rossmann_original.jpg" alt="drawing" align="right" width="25%"/>
 </a>
 > <p>Sales forecast in six weeks of a pharmacy chain. The interaction with the model is made by a bot in Telegram</p>
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
@@ -30,8 +30,8 @@
 
 <strong><a href="https://github.com/charlleskleber/Insurance-Cross-Sell">2. Health Insurance Cross Sell</a></strong>
 <br>
-<a href="https://github.com/">
-	<img src="https://github.com/" alt="drawing" align="right" width="25%"/>
+<a href="https://github.com/charlleskleber/Insurance-Cross-Sell/">
+	<img src="https://github.com/charlleskleber/Insurance-Cross-Sell/blob/main/img/insurance.jpg" alt="drawing" align="right" width="25%"/>
 </a>
 > <p>Forecast of clients with greater chances of contracting the new product in which the insurance company offers during the product launch campaign</p>
 > <p>skills: Unbalanced Data, Machine Learning, Heroku, API</p>
