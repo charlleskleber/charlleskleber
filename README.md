@@ -16,6 +16,31 @@
 
 <br></br>
 
+The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
+
+I have studied Data Science since 2020, and i still didn't had the chance to work in a Data Scientist roll, but, i am a Business Analyst for a hotel since July 2019. 
+
+I am capable of executing all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
+
+I have already developed solutions for important business problems such as detecting fraud in transactions, identifying customers in churn and prioritizing customers for cross-selling.
+
+The details of each solution are described in the projects below.
+
+
+**Analytical Tools:**
+
+**Data Collect and Storage:** SQL, MySQL and Postgres.
+
+**Data Processing and Analysis:** Python
+
+**Development:** Git, Scrum. 
+
+**Data Vizualization:** Tableau, Power BI
+
+**Machine Learning Modeling:** Classification, Regression, Time Series.
+
+**Machine Learning Deployment:** Heroku, Flask 
+
 
 <h1>Projects</h1>
 
@@ -24,7 +49,7 @@
 <a href="https://github.com/charlleskleber/RossmannnSalesPred">
 	<img src="https://github.com/FabioCaffarello/Rossmann-Store-Sales/blob/master/img/rossmann.jpg" alt="drawing" align="right" width="25%"/>
 </a>
-> <p>Sales forecast in six weeks of a pharmacy chain. The interaction with the model is made by a bot in Telegram</p>
+> <p>Sales forecast in six weeks of a pharmacy chain.</p>
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
 <br>
 
@@ -34,7 +59,7 @@
 	<img src="https://github.com/charlleskleber/Insurance-Cross-Sell/blob/main/img/insurancecover.jpg" alt="drawing" align="right" width="25%"/>
 </a>
 > <p>Forecast of clients with greater chances of contracting the new product in which the insurance company offers during the product launch campaign</p>
-> <p>skills: Unbalanced Data, Machine Learning, Heroku, API</p>
+> <p>skills: Unbalanced Data, Machine Learning</p>
 
 
 <br></br>
