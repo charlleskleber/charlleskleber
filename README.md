@@ -27,7 +27,7 @@ I have already developed solutions for important business problems such as detec
 The details of each solution are described in the projects below.
 
 
-**Analytical Tools:**
+### **Analytical Tools:**
 
 **Data Collect and Storage:** SQL, MySQL and Postgres.
 
