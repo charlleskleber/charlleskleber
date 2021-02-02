@@ -53,7 +53,7 @@ The details of each solution are described in the projects below.
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
 <br>
 
-<strong><a href="https://github.com/charlleskleber/Insurance-Cross-Sell">2. Health Insurance Cross Sell</a></strong>
+<strong><a href="https://github.com/charlleskleber/Insurance-Cross-Sell">2. Health Insurance Cross Sell( in dev... )</a></strong>
 <br>
 <a href="https://github.com/charlleskleber/Insurance-Cross-Sell">
 	<img src="https://github.com/charlleskleber/Insurance-Cross-Sell/blob/main/img/insurancecover.jpg" alt="drawing" align="right" width="25%"/>
