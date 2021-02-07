@@ -49,7 +49,7 @@ The details of each solution are described in the projects below.
 <a href="https://github.com/charlleskleber/RossmannnSalesPred">
 	<img src="https://github.com/FabioCaffarello/Rossmann-Store-Sales/blob/master/img/rossmann.jpg" alt="drawing" align="right" width="25%"/>
 </a>
-> <p>Sales forecast in six weeks of a pharmacy chain.</p>
+> <p>Sales forecast for six weeks of a pharmacy chain.</p>
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
 <br>
 
