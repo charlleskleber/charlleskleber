@@ -44,7 +44,7 @@ The details of each solution are described in the projects below.
 
 <h1>Data Science Projects</h1>
 
-<strong><a href="https://github.com/charlleskleber/RossmannnSalesPred">1. Store Sales Prediction </a></strong>
+<strong><a href="https://github.com/charlleskleber/RossmannnSalesPred">1. Store Sales Prediction (..in dev) </a></strong>
 <br>
 <a href="https://github.com/charlleskleber/RossmannnSalesPred">
 	<img src="https://github.com/FabioCaffarello/Rossmann-Store-Sales/blob/master/img/rossmann.jpg" alt="drawing" align="right" width="25%"/>
