@@ -20,7 +20,7 @@ The main objective of this data science personal project portfolio is to demonst
 
 I have studied Data Science since 2020, and i still didn't had the chance to work in a Data Scientist roll, but, i am a Business Analyst for a hotel since July 2019. 
 
-I am capable of executing all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
+I am capable of executing all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model using Clouds.
 
 I have already developed solutions for important business problems such as detecting fraud in transactions, identifying customers in churn and prioritizing customers for cross-selling.
 
