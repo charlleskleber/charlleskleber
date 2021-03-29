@@ -18,11 +18,11 @@
 
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
-I have studied Data Science since 2020, and i still didn't had the chance to work in a Data Scientist roll, but, i am a Business Analyst for a hotel since July 2019. 
+I have studied Data Science since 2020, and i still didn't had the chance to work in a Data Scientist roll.
 
 I am capable of executing all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model using Clouds.
 
-I have already developed solutions for important business problems such as detecting fraud in transactions, identifying customers in churn and prioritizing customers for cross-selling.
+I have already developed solutions for important business problems such as predicting sales volume and prioritizing customers for cross-selling.
 
 The details of each solution are described in the projects below.
 
@@ -44,7 +44,7 @@ The details of each solution are described in the projects below.
 
 <h1>Data Science Projects</h1>
 
-<strong><a href="https://github.com/charlleskleber/RossmannnSalesPred">1. Store Sales Prediction (..in dev) </a></strong>
+<strong><a href="https://github.com/charlleskleber/RossmannnSalesPred">1. Store Sales Prediction </a></strong>
 <br>
 <a href="https://github.com/charlleskleber/RossmannnSalesPred">
 	<img src="https://github.com/FabioCaffarello/Rossmann-Store-Sales/blob/master/img/rossmann.jpg" alt="drawing" align="right" width="25%"/>
@@ -53,7 +53,7 @@ The details of each solution are described in the projects below.
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
 <br>
 
-<strong><a href="https://github.com/charlleskleber/Insurance-Cross-Sell">2. Health Insurance Cross Sell( in dev... )</a></strong>
+<strong><a href="https://github.com/charlleskleber/Insurance-Cross-Sell">2. Health Insurance Cross Sell( markdown in dev )</a></strong>
 <br>
 <a href="https://github.com/charlleskleber/Insurance-Cross-Sell">
 	<img src="https://github.com/charlleskleber/Insurance-Cross-Sell/blob/main/img/insurancecover.jpg" alt="drawing" align="right" width="25%"/>
