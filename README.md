@@ -69,7 +69,7 @@ The details of each solution are described in the projects below.
 	<img src="https://github.com/charlleskleber/Real-State-Analysis-for-HouseRocket/blob/main/img/logoreadme.png" alt="drawing" align="right" width="25%"/>
 </a>
 > <p>Market Analysis for Business decisions.</p>
-> <p>Skills: Data Viz, prediction, Business Intelligence</p>
+> <p>Skills: Data Viz, Business Intelligence</p>
 <br>
 
 <br></br>
