@@ -47,7 +47,7 @@ The details of each solution are described in the projects below.
 <strong><a href="https://github.com/charlleskleber/RossmannnSalesPred">1. Store Sales Prediction </a></strong>
 <br>
 <a href="https://github.com/charlleskleber/RossmannnSalesPred">
-	<img src="https://user-images.githubusercontent.com/72186071/106330645-578b5c00-6262-11eb-9faa-47e8862fe463.jpg)" alt="drawing" align="right" width="25%"/>
+	<img src="https://user-images.githubusercontent.com/68538809/148125358-4b61a4af-bc42-4901-8633-49aa49a984b5.png" alt="drawing" align="right" width="25%"/>
 </a>
 > <p>Sales forecast for six weeks of a pharmacy chain.</p>
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
