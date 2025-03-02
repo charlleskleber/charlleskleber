@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋! I'm Charlles Kleber</h1>
 
-<h3 align="center">Data Scientist</h3>
+<h3 align="center"> Solutions Builder </h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/charlles-kleber-953790174/" target="_blank"><img src="icons/linkedin.svg" alt="Linkedin" width="4%" lenght="4%"></a>&nbsp;&nbsp;
