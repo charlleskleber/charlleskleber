@@ -68,18 +68,4 @@ The details of each solution are described in the projects below.
 
 <br></br>
 
-<div align="center" style=".">
-	<img src="icons/python.svg" alt="Python" width="9%" lenght="10%">&nbsp;&nbsp;
-	<img src="icons/pandas.svg" alt="Pandas" width="20%" lenght="10%">&nbsp;&nbsp;
-	<img src="icons/scikit-learn.svg" alt="sklearn" width="18%" lenght="10%">&nbsp;&nbsp;
-	<img src="icons/flask.svg" alt="git" width="8%" lenght="10%">&nbsp;&nbsp;
-	<img src="icons/mysql.svg" alt="mysql" width="11%" lenght="10%">&nbsp;&nbsp;
-	<img src="icons/git.svg" alt="git" width="8%" lenght="10%">&nbsp;&nbsp;
-	<img src="icons/heroku.svg" alt="git" width="8%" lenght="10%">
-</div>
-
----
-<div style="display: flex;justify-content: space-around;" align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=charlleskleber&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" alt="github stats">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlleskleber&layout=compact&hide_border=true&title_color=000" alt="clebio languages">
 
