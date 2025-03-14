@@ -29,7 +29,7 @@ The details of each solution are described in the projects below.
 
 ### **Analytical Tools:**
 
-**Data Collect and Storage:** SQL, MySQL and Postgres.
+**Data Collect and Storage:** Vector, Relational DBs.
 
 **Data Processing and Analysis:** Python
 
@@ -37,9 +37,7 @@ The details of each solution are described in the projects below.
 
 **Data Vizualization:** Tableau, Power BI
 
-**Machine Learning Modeling:** Classification, Regression, Time Series.
-
-**Machine Learning Deployment:** Heroku, Flask 
+**Machine Learning Modeling:** Classification, Regression, Time Series, LLMs, SLMs.
 
 
 <h1>Data Science Projects</h1>
