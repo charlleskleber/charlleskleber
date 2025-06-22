@@ -2,13 +2,6 @@
 
 <h3 align="center">🧠 AI Systems & Automation Engineer | 🛠️ Solutions Builder</h3>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/charlleskleber/" target="_blank">
-        <img src="icons/linkedin.svg" alt="Linkedin" width="4%"></a>&nbsp;&nbsp;
-    <a href="https://github.com/charlleskleber" target="_blank">
-        <img src="icons/github.svg" alt="GitHub" width="4%"></a>&nbsp;&nbsp;
-    <a href="mailto:charlleskgf@gmail.com">
-        <img src="icons/email.svg" alt="Email" width="4%"></a>
 </p>
 
 ---
