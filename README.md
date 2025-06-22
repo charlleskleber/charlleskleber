@@ -1,69 +1,82 @@
-<h1 align="center">Hi there 👋! I'm Charlles Kleber</h1>
+<h1 align="center">👋 Hi there! I'm Charlles Kleber</h1>
 
-<h3 align="center"> Solutions Builder </h3>
+<h3 align="center">🧠 AI Systems & Automation Engineer | 🛠️ Solutions Builder</h3>
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/charlles-kleber-953790174/" target="_blank"><img src="icons/linkedin.svg" alt="Linkedin" width="4%" lenght="4%"></a>&nbsp;&nbsp;
-    <a href="https://www.kaggle.com/charlleskleber" target="_blank"><img src="icons/kaggle.svg" alt="Kaggle" width="4%" lenght="4%"></a>
-</div>
+<p align="center">
+    <a href="https://www.linkedin.com/in/charlleskleber/" target="_blank">
+        <img src="icons/linkedin.svg" alt="Linkedin" width="4%"></a>&nbsp;&nbsp;
+    <a href="https://github.com/charlleskleber" target="_blank">
+        <img src="icons/github.svg" alt="GitHub" width="4%"></a>&nbsp;&nbsp;
+    <a href="mailto:charlleskgf@gmail.com">
+        <img src="icons/email.svg" alt="Email" width="4%"></a>
+</p>
 
-<div align="center">
-	<div style="display: inline-block;">
-		<a href="https://www.linkedin.com/in/charlleskleber/" target="_blank">	
-			<strong>charlleskgf@gmail.com</strong></a>
-	</div>
-</div>
+---
 
-<br></br>
+🧩 **About Me**
 
-The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
+I'm a product-focused technologist working at the intersection of **GenAI, SaaS workflows, and intelligent automation**. I help businesses streamline operations using **agentic AI**, **LLM orchestration**, and **custom automation pipelines**.
 
-I have studied Data Science since 2020, and i still didn't had the chance to work in a Data Scientist roll.
+Currently working with:
+- 🧾 **PriceLabs** – Automating CX operations with GenAI
+- 🏛️ **Néctar Licitações** – Building AI agents for public procurement intelligence
 
-I am capable of executing all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model using Clouds.
+🛠️ **Toolkit**:
+`Python` · `LangGraph` · `PydanticAI` · `SQL` · `Power BI` · `OCR & NLP` · `Agent Workflows` · `Zapier` · `Make.com` · `n8n` · `ZohoDesk` · `Cognigy` · `Git` · `Jira` · `Confluence`
 
-I have already developed solutions for important business problems such as predicting sales volume and prioritizing customers for cross-selling.
+---
 
-The details of each solution are described in the projects below.
+## 🚀 Featured Engineering Projects
 
+### 🔹 [PriceLabs AI QC Assistant](https://github.com/charlleskleber/)
+> Built an LLM-powered Quality Control assistant to standardize tone, detect friction points, and streamline CX review pipelines.
 
-### **Analytical Tools:**
+**Tech used**: GPT-4, LangGraph, PydanticAI, ZohoDesk API, Internal Admin Tooling
 
-**Data Collect and Storage:** Vector, Relational DBs.
+---
 
-**Data Processing and Analysis:** Python
+### 🔹 [Procurement AI Agents @ Néctar](https://github.com/charlleskleber/)
+> Multi-agent framework parsing Brazilian tender documents, performing data extraction and strategic classification for clients.
 
-**Development:** Git, Scrum. 
+**Tech used**: LoRA/QLoRA fine-tuning, OCR pipelines, retrieval-based QA, multi-stage agent flow, front-end integration
 
-**Data Vizualization:** Tableau, Power BI
+---
 
-**Machine Learning Modeling:** Classification, Regression, Time Series, LLMs, SLMs.
+### 🔹 [Health Insurance Cross-Sell Prediction](https://github.com/charlleskleber/Insurance-Cross-Sell)
+> ML model to identify top leads for upselling during a product campaign.
 
+**Skills**: Classification, Feature Engineering, Model Deployment, Business Problem Structuring
 
-<h1>Data Science Projects</h1>
+---
 
-<h3>ML Projects</h3>
+### 🔹 [Rossmann Sales Forecast](https://github.com/charlleskleber/RossmannnSalesPred)
+> Forecasted pharmacy sales with time series + regression models integrated via bot/API.
 
-<strong><a href="https://github.com/charlleskleber/RossmannnSalesPred">1. Store Sales Prediction </a></strong>
-<br>
-<a href="https://github.com/charlleskleber/RossmannnSalesPred">
-	<img src="https://user-images.githubusercontent.com/68538809/148125358-4b61a4af-bc42-4901-8633-49aa49a984b5.png" alt="drawing" align="right" width="25%"/>
-</a>
-> <p>Sales forecast for six weeks of a pharmacy chain.</p>
-> <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
-<br>
+**Skills**: Time Series Forecasting, Flask API, Heroku Deployment, Data Wrangling
 
-<strong><a href="https://github.com/charlleskleber/Insurance-Cross-Sell">2. Health Insurance Cross Sell( markdown in dev )</a></strong>
-<br>
-<a href="https://github.com/charlleskleber/Insurance-Cross-Sell">
-	<img src="https://user-images.githubusercontent.com/68538809/142218390-a331bfc7-deb6-44c2-99c0-a8a74ad0ac24.png" alt="drawing" align="right" width="25%"/>
-</a>
-> <p>Forecast of clients with greater chances of contracting the new product in which the insurance company offers during the product launch campaign</p>
-> <p>skills: Unbalanced Data, Machine Learning</p>
+---
 
+## 📊 Visualization & Reporting
 
-<h3>LLM Projects</h3>
+Built dozens of dynamic dashboards for internal ops and strategic monitoring in:
+- Power BI
+- Tableau
+- Notion (KPI reporting via database views)
 
-<br></br>
+---
 
+## 📚 Education & Certifications
 
+- 🧑‍🎓 Scoras Academy — AI/DS Training (2025)
+- 📊 Bloomberg Market Concepts — Bloomberg (2021)
+- ✈️ Pilot Training — Aeroclube de Blumenau (2016-2017)
+
+---
+
+## 💡 Let's Connect!
+
+💬 I'm always open to building automation, AI-driven tools or collaborating in projects with high impact.
+
+📩 **charlleskgf@gmail.com**  
+📍 Based in Porto, Portugal  
+🌐 [LinkedIn](https://www.linkedin.com/in/charlleskleber/) · [GitHub](https://github.com/charlleskleber)
