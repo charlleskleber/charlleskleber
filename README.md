@@ -42,7 +42,7 @@ Currently working with:
 
 ---
 
-### 🔹 [Rossmann Sales Forecast]([https://github.com/charlleskleber/RossSalesPrediction])
+### 🔹 [Rossmann Sales Forecast](https://github.com/charlleskleber/RossSalesPrediction)
 > Forecasted pharmacy sales with time series + regression models integrated via bot/API.
 
 **Skills**: Time Series Forecasting, Flask API, Heroku Deployment, Data Wrangling
